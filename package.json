@@ -1,0 +1,14 @@
+{
+  "name": "projectab",
+  "version": "1.0.0",
+  "description": "This is demo project",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Anshita Bhasin",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.14.2"
+  }
+}
